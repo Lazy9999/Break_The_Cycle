@@ -30,7 +30,7 @@ Upon exti the AI will save the conversation to memory so it can recognize patter
 <img width="864" height="637" alt="image" src="https://github.com/user-attachments/assets/6c228de7-1fbc-410f-9f7a-a0e0bcbae73a" />
 
 ### To help mitigate this I added this rule to its system instruction
-"6. When there is a breakthrough (the user getting closer to understanding their addiction) give an action item for the user to act on said breakthrough."
+"6. When there is a breakthrough (the user getting closer to understanding their addiction) give an action item for the user to act on said breakthrough."<br>
 This helped a bit in getting the AI to stop asking questions and maybe even give an action item for the user to get back on the path of sobreity but it still is quite persistent in its questioning. This also has the trade off of making the session end earlier than it maybe should have since the user if more likely to stop talking with the AI once an action item is given.
 
 
